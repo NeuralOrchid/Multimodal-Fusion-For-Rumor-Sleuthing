@@ -52,17 +52,6 @@ This code was tested using:
 
 ---
 
-🚀 Running the Code
-
-python train.py --dataset twitter15 --epochs 50
-
-> ⚠️ This code is not production-grade. It's a research prototype, provided "as is" for academic use.
-
-
-
-
----
-
 🧪 Results
 
 Our model achieves state-of-the-art performance on all datasets. See the paper for full tables and ablation studies.
@@ -74,6 +63,7 @@ Our model achieves state-of-the-art performance on all datasets. See the paper f
 
 If you use this code or paper in your work, please cite:
 
+```
 @article{farahi2025bcfn,
   title={Multimodal fusion for rumor sleuthing: A comprehensive approach},
   author={Farahi, Mohammad-Reza and Jafarinejad, Fateme},
@@ -82,7 +72,7 @@ If you use this code or paper in your work, please cite:
   year={2025},
   doi={10.1016/j.eswa.2025.128327}
 }
-
+```
 
 ---
 
